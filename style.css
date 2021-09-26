@@ -18,6 +18,9 @@
     height: 900px;
     background: linear-gradient(#fa6b6b 0%,#fafafa 100%);
 }
+#Micky img{
+    height: 300px;
+}
 #Micky h1{
     margin-top: 10px;
     font-size: 40px;   
