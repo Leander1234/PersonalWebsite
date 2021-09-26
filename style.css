@@ -1,0 +1,86 @@
+#Cartoon{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#Cartoon a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+#Micky{
+    margin-top: 55px;
+    height: 900px;
+    background: linear-gradient(#fa6b6b 0%,#fafafa 100%);
+}
+#Micky h1{
+    margin-top: 10px;
+    font-size: 40px;   
+}
+#Micky p{
+    font-family: cursive;
+}
+#home{
+    margin-top: 55px;
+    height: 900px;
+    background: linear-gradient(#db4ce6 0%,#3c35c4 100%);
+}
+#home p{
+    color:white;
+    font-weight: bold;
+}
+#Looney{
+    margin-top: 55px;
+    height: 1000px;
+    background: linear-gradient(#eb2015 0%,#eb8715 100%);
+}
+#Looney p{
+    color:white;
+    font-weight: bold;
+}
+#home img{
+    width: 80%;
+}
+#Scooby{
+    margin-top: 55px;
+    height: 1000px;
+    background: linear-gradient(#f2f542 0%,#42f5f5 100%);
+}
+#Scooby img{
+    width: 40%;
+}
+#Sim{
+    margin-top: 55px;
+    height: 1000px;
+    background: linear-gradient(#f2f542 0%,black 100%);
+}
+#Sim img{
+    width: 30%;
+}
+#Sim p{
+    color:white;
+    font-weight: bold;
+}
+#Merch{
+    margin-top: 55px;
+    height: 500px;
+    background: linear-gradient(white 0%,black 100%);
+}
+#Merch img{
+    width: 30%;
+}
+#Contact{
+    margin-top: 55px;
+    height: 500px;
+    background: linear-gradient(white 0%,grey 100%);
+}
+#Apps{
+    margin-top: 55px;
+    height: 700px;
+    background: linear-gradient(grey 0%,black 100%);
+}
